@@ -1,0 +1,5 @@
+C:\Users\kiptenai\AppData\Local\Temporary Projects\FirstDataBase\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\kiptenai\AppData\Local\Temporary Projects\FirstDataBase\bin\Release\FirstDataBase.exe
+C:\Users\kiptenai\AppData\Local\Temporary Projects\FirstDataBase\bin\Release\FirstDataBase.pdb
+C:\Users\kiptenai\AppData\Local\Temporary Projects\FirstDataBase\obj\x86\Release\FirstDataBase.exe
+C:\Users\kiptenai\AppData\Local\Temporary Projects\FirstDataBase\obj\x86\Release\FirstDataBase.pdb

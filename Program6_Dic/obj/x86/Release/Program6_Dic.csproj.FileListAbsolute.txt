@@ -1,0 +1,4 @@
+C:\Users\kiptenai\Documents\Visual Studio 2010\Projects\Program6_Dic\Program6_Dic\bin\Release\Program6_Dic.exe
+C:\Users\kiptenai\Documents\Visual Studio 2010\Projects\Program6_Dic\Program6_Dic\bin\Release\Program6_Dic.pdb
+C:\Users\kiptenai\Documents\Visual Studio 2010\Projects\Program6_Dic\Program6_Dic\obj\x86\Release\Program6_Dic.exe
+C:\Users\kiptenai\Documents\Visual Studio 2010\Projects\Program6_Dic\Program6_Dic\obj\x86\Release\Program6_Dic.pdb
